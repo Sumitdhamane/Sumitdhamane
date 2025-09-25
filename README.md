@@ -20,8 +20,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
 
 ### 🚀 Tools & Cloud  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ---
 
 ## 📊 GitHub Stats  
