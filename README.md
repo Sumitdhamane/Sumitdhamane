@@ -1,33 +1,67 @@
-# 👋 Hi, I’m Sumit Dhamane  
-
-💻 **Aspiring MERN Stack Developer** | 🚀 Passionate about building modern and responsive web applications  
-
----
-
-### 👀 About Me
-- 🎓 Currently pursuing **Bachelor of Engineering in Information Technology** at Mumbai University  
-- 🌱 Continuously learning and exploring **Web Development, MERN Stack, and Blockchain**  
-- 💡 Enthusiastic about creating real-world projects that solve problems and improve user experience  
-- 🤝 Open to collaborating on **Web Development, Open Source, and Innovative Tech Projects**  
+# Hey there, I'm Sumit Dhamane  
+**Full-Stack Developer | MERN Stack | Blockchain & AI Enthusiast | Open-Source Contributor | Lifelong Learner**
 
 ---
 
-### 🔧 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools & Platforms:** Git, GitHub, Postman  
+### ❌ What I’m not
+Not much of a Hacker, not really a Software Developer, or a Security Researcher.  
+Neither a DSA Master, nor a Backend Genius, or a JavaScript Ninja, or a TypeScript Magician.  
+Just someone who wants to explore it all ❤️
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: **dhamanesumit7@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(add your LinkedIn link)*   
+## 🌐 Socials:
+[LinkedIn](https://www.linkedin.com/in/sumitdhamane) | [GitHub](https://github.com/Sumitdhamane) | [Twitter](#) | [Instagram](#)  
 
 ---
 
-### ⚡ Fun Fact
-I love turning ideas into working projects and improving performance with clean, efficient code.  
+## 💡 What I’ve tried before discovering my passion for programming:
+👨‍🏫 Web tech trainer  
+🛡️ Cybersecurity & ethical hacking  
+📈 Stock market trader (India)  
+♻️ Family business participant  
+🏋️ Gym top performer  
+✏️ Sketching | 🏸 Badminton | 🏏 Cricket | 🎮 Gaming  
 
 ---
-✨ *"Code, Learn, and Build something that makes an impact!"*  
+
+## 🛠 Tech Stack:
+
+**Languages:**  
+`C` | `C++` | `Java` | `Python`  
+
+**Frontend:**  
+`HTML5` | `CSS3` | `JavaScript` | `React` | `TailwindCSS` | `Material UI`  
+
+**Backend:**  
+`Node.js` | `Express.js`  
+
+**Databases:**  
+`MySQL` | `MongoDB`  
+
+**Tools & DevOps:**  
+`Git` | `GitHub` | `Docker` | `Kubernetes`  
+
+**Cloud & OS:**  
+`Linux` | `AWS` | `Azure`  
+
+---
+
+## 📊 GitHub Stats:
+![Sumit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitdhamane&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumitdhamane&theme=tokyonight)  
+
+---
+
+## 🏆 Achievements:
+- 🎓 **Engineering Student** at Mumbai University (IT)  
+- 💻 **SDE Intern** @ Placify Technologies  
+- 🚀 Built **Full-Stack Projects** (MERN)  
+- 📖 **Research Paper Published** (JETIR.org)  
+- 🌐 **Open-Source Contributor**  
+- 🥇 **Hackathon Participant & Winner**  
+- 🤝 Treasurer of **ITSA (IT Dept. Association)**  
+
+---
+
+⭐ *“Keep exploring, keep building, keep learning.”*  
