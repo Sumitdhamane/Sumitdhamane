@@ -1,26 +1,32 @@
+<!-- Header Banner -->
+<img src="https://i.imgur.com/3Z0O8nP.gif" width="100%" alt="Welcome Banner">
+
 # 👋 Hey there, I'm **Sumit Dhamane**  
-**Full-Stack Developer | MERN Stack | Blockchain & AI Enthusiast | Open-Source Contributor | Lifelong Learner**
+
+<p align="center">
+  <a href="https://github.com/Sumitdhamane">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+%26+AI+Enthusiast;Open+Source+Contributor;Lifelong+Learner"/>
+  </a>
+</p>
+
 ---
 
 ## 🌐 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitdhamane)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sumitdhamane)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitdhamane)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sumitdhamane)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#)  
+![Visitors](https://komarev.com/ghpvc/?username=Sumitdhamane&label=Profile%20Views&color=0e75b6&style=flat)  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,materialui,nodejs,express,mongodb,mysql,git,docker,kubernetes,linux,aws,azure" />
+</p>
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white)  
-
-### ⚙️ Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-
-### 🚀 Tools & Cloud  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ---
 
 ## 📊 GitHub Stats  
@@ -34,6 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitdhamane&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitdhamane&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🏆 Achievements  
@@ -44,6 +54,14 @@
 - 📖 **Research Paper Published** (JETIR.org)  
 - 🌐 **Open-Source Contributor**  
 - 🤝 Treasurer of **ITSA (IT Dept. Association)**  
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
