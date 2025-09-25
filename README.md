@@ -50,7 +50,7 @@
 
 ### 🚀 Tools & Cloud  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
