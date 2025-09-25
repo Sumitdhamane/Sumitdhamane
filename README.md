@@ -95,8 +95,6 @@
 
 - ⚡ Gym Top Performer  
 - 🏏 Cricket & 🏸 Badminton Lover  
-- ✏️ Sketching in free time  
-- ♻️ Active in family business before tech journey  
 
 ---
 
