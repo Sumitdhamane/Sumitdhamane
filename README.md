@@ -1,6 +1,3 @@
-<!-- Profile Banner -->
-<img src="https://i.imgur.com/3Z0O8nP.gif" width="100%" alt="Hello World Banner">
-
 # 👋 Hey there, I'm **Sumit Dhamane**  
 **Full-Stack Developer | MERN Stack | Blockchain & AI Enthusiast | Open-Source Contributor | Lifelong Learner**
 
