@@ -8,16 +8,6 @@
 
 ---
 
-## 💡 Before Programming, I tried...  
-- 👨‍🏫 Web Tech Trainer  
-- 🛡️ Cybersecurity & Ethical Hacking  
-- 📈 Stock Market Trader (India)  
-- ♻️ Family Business Participant  
-- 🏋️ Gym Top Performer  
-- ✏️ Sketching | 🏸 Badminton | 🏏 Cricket | 🎮 Gaming  
-
----
-
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
@@ -54,7 +44,6 @@
 - 🚀 Built **Full-Stack Projects** (MERN)  
 - 📖 **Research Paper Published** (JETIR.org)  
 - 🌐 **Open-Source Contributor**  
-- 🥇 **Hackathon Participant & Winner**  
 - 🤝 Treasurer of **ITSA (IT Dept. Association)**  
 
 ---
