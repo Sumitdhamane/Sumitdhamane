@@ -1,5 +1,6 @@
 <!-- Header Banner (Generated from https://leviarista.github.io/github-profile-header-generator/) -->
-![Header](./header.png)
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/8abe866c-8eee-49e7-9cef-058e1461667d" />
+
 
 # 👋 Hey there, I'm **Sumit Dhamane**
 
