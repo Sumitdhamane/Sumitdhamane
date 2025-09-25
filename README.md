@@ -1,7 +1,7 @@
-<!-- Header Banner -->
-<img src="https://i.imgur.com/3Z0O8nP.gif" width="100%" alt="Welcome Banner">
+<!-- Header Banner (Generated from https://leviarista.github.io/github-profile-header-generator/) -->
+![Header](./header.png)
 
-# 👋 Hey there, I'm **Sumit Dhamane**  
+# 👋 Hey there, I'm **Sumit Dhamane**
 
 <p align="center">
   <a href="https://github.com/Sumitdhamane">
@@ -17,14 +17,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sumitdhamane)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#)  
-![Visitors](https://komarev.com/ghpvc/?username=Sumitdhamane&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitors](https://komarev.com/ghpvc/?username=Sumitdhamane&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,materialui,nodejs,express,mongodb,mysql,git,docker,kubernetes,linux,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,materialui,nodejs,express,mongodb,mysql,git" />
 </p>
 
 ---
