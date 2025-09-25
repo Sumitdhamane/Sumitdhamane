@@ -3,13 +3,6 @@
 
 ---
 
-### ❌ What I’m not
-Not much of a Hacker, not really a Software Developer, or a Security Researcher.  
-Neither a DSA Master, nor a Backend Genius, or a JavaScript Ninja, or a TypeScript Magician.  
-Just someone who wants to explore it all ❤️
-
----
-
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/sumitdhamane) | [GitHub](https://github.com/Sumitdhamane) | [Twitter](#) | [Instagram](#)  
 
