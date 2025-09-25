@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Sumitdhamane">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+%26+AI+Enthusiast;Open+Source+Contributor;Lifelong+Learner"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Dev;Open+Source+Contributor;Lifelong+Learner"/>
   </a>
 </p>
 
