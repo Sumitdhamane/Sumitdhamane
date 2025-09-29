@@ -17,11 +17,7 @@
 
 ## 🌐 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitdhamane)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sumitdhamane)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#)  
-![Visitors](https://komarev.com/ghpvc/?username=Sumitdhamane&label=Profile%20Views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitdhamane)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sumitdhamane)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#)  ![Visitors](https://komarev.com/ghpvc/?username=Sumitdhamane&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-brightgreen" />
