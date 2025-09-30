@@ -89,7 +89,6 @@
 
 ## 🎯 Fun Facts  
 
-- ⚡ Gym Top Performer  
 - 🏏 Cricket & 🏸 Badminton Lover  
 
 ---
